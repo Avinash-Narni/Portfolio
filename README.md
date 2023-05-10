@@ -14,4 +14,4 @@ flask --debug --app api.index run
 
 ## Cloning / Forking
 
-Please review the [license]([https://github.com/faiyazthulla-shaik/portfolio/LICENSE.md]) and remove all of my personal information (resume, blog posts, images, etc.).
+Please review the [license](https://github.com/faiyazthulla-shaik/portfolio/LICENSE.md) and remove all of my personal information (resume, blog posts, images, etc.).
