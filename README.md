@@ -7,7 +7,7 @@
 This application requires the latest python and flask to be installed.
 
 ```bash
-git clone https://github.com/buildwithdan/flask-portfolio.git
+Clone the repository
 cd flask-portfolio
 flask --debug --app api.index run
 ```
